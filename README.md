@@ -1,6 +1,9 @@
 ## Olá! Eu sou o Thalysom
 
-- Estudando ECMAscript 6
+- Estudante de Fron-End
+- conhecimento básico em HTML, CSS e JavaScript
+- estudando ReactJS
+- estudando mais em responsividade de layout
  ##
 <div>
   <a href="https://github.com/SubFall">
