@@ -3,8 +3,8 @@
 - Estudante de Analise e Desenvolvimento de Sistemas
  ##
  <div>
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=subfall&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
- <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=subfall&repo=subfall&cache_seconds=86400&theme=chartreuse-dark"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=subfall&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=subfall&repo=subfall&cache_seconds=86400&theme=chartreuse-dark"/>
  </div>
  
  ##
