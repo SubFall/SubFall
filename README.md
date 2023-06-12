@@ -2,7 +2,15 @@
 
 - Estudante de Analise e Desenvolvimento de Sistemas
  ##
+ <div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subfall&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=subfall&repo=github-readme-stats&cache_seconds=86400&theme=chartreuse-dark"/>
+ </div>
+ 
+ ##
+ 
 <div>
+ <a href="https://github.com/SubFall">
  <img align="center" alt="Thalysom-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  </div>
   
