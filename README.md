@@ -1,6 +1,4 @@
 ## Olá! Eu sou o Thalysom
-
-- Estudante de Analise e Desenvolvimento de Sistemas
  
  ##
  
@@ -13,7 +11,7 @@
  ##
  
 <div>
- <img align="center" alt="Thalysom-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+ <img align="center" alt="Thalysom-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
  
  ##
