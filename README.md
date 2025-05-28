@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Thalysom
  
- ##
  
  <div>
   <a href="https://github.com/SubFall">
